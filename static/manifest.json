@@ -1,0 +1,25 @@
+{
+   "bundles": [
+      {
+         "name": "game-screen",
+         "assets": [
+            {
+               "name": "magnit",
+               "srcs": "./img/magnit.json"
+            },
+            {
+               "name": "loop",
+               "srcs": "./snd/loop.mp3"
+            },
+            {
+               "name": "pop",
+               "srcs": "./snd/pop.mp3"
+            },
+            {
+               "name": "add",
+               "srcs": "./snd/add.mp3"
+            }
+         ]
+      }
+   ]
+}
